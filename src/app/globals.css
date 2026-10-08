@@ -2,6 +2,7 @@
 @theme {
   --color-custom-bg: #F3FBF4;
 }
+@import "@heroui/styles"; 
 
 
 @keyframes marquee {
@@ -25,3 +26,5 @@
 html {
     scroll-behavior: smooth;
 }
+
+
